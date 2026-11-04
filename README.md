@@ -2,7 +2,7 @@
 
 Baixa **automaticamente** do OpenDataSUS as bases de **dengue, chikungunya e zika de 2022 a 2026**, trata cada base (Bronze → Silver → Gold), **integra as três** numa base única e cruza com o **clima** (temperatura, chuva e umidade). Depois analisa o comportamento das doenças no Brasil e **cria sozinho o dashboard de monitoramento** no Databricks, com filtros.
 
-Não há filtro de estado: os 27 estados e os 5.570 municípios são processados. O recorte por doença, estado, município, ano e semana é feito nos filtros do dashboard.
+Não há filtro de estado: os 27 unidades federativas e os 5.570 municípios são processados. O recorte por doença, estado, município, ano e semana é feito nos filtros do dashboard.
 
 ## Como usar (um clique)
 
